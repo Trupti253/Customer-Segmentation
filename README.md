@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-''' bash
+
 Copy code
 git clone https://github.com/your-username/customer-segmentation-analysis.git
 Navigate to the project directory:
